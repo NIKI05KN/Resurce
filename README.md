@@ -1,1 +1,2 @@
-# Resurce
+# Resurce pack
+# Data pack
