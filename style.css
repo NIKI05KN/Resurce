@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ресурсни Пакове</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Добре дошли в сайта за ресурсни пакове!</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Налични ресурсни пакове</h2>
+            <ul>
+                <li><a href="packs/pack1.zip" download>Ресурсен пакет 1</a></li>
+                <li><a href="packs/pack2.zip" download>Ресурсен пакет 2</a></li>
+                <li><a href="packs/pack3.zip" download>Ресурсен пакет 3</a></li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>© 2025 Ресурсни Пакове. Всички права запазени.</p>
+    </footer>
+</body>
+</html>
